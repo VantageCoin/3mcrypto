@@ -6,8 +6,8 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 
 /**
- * @title Staking Token (STK)
- * @author Alberto Cuesta Canada
+ * @title Staking Token (3M)
+ * @author Kaylon Daniels
  * @notice Implements a basic ERC20 staking token with incentive distribution.
  */
 contract DubStake is ERC20, Ownable {
